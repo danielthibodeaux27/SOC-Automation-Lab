@@ -25,7 +25,7 @@ The primary objective is to develop practical skills in setting up a simulated S
 ## Steps
 All steps in detail can be found <a href="https://docs.google.com/document/d/10zMMvIM3Co88ea8d9Oz_KLhqIRQL8id-xAwQpetT1V8/edit?tab=t.0" style="color: blue; text-decoration: underline;">here</a>
 
-1. Create a diagram and map out how we want to build out our lab visually to understand how data flows.
+1. Create a <a href="https://imgur.com/a/2UHeALS" style="color: blue; text-decoration: underline;">logical diagram</a> and map out how we want to build out our lab visually to understand how data flows.
 
 2. Install VMs & Applications.
 
